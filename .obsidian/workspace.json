@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multi Threading/Sync vs Async.md",
+                "file": "System Designs/Microservices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sync vs Async"
+              "title": "Microservices"
             }
           }
         ]
@@ -170,9 +170,11 @@
   },
   "active": "f85bef7a9a7a18a3",
   "lastOpenFiles": [
-    "Multi Threading/Basics.md",
-    "Multi Threading/Sync vs Async.md",
     "Multi Threading/Threads in Java.md",
+    "System Designs/Microservices.md",
+    "Multi Threading/Sync vs Async.md",
+    "Multi Threading/Basics.md",
+    "System Designs/Layered Architecture.md",
     "API/GraphQL API.md",
     "Multi Threading",
     "Models/Class Diagram.md",
